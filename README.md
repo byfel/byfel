@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Olá eu sou o Felipe Souza.
 - 👨‍💻 Hoje eu estudo Sistema de informação com foco em análise de dados.
-- 😀Linguagens Python e Java.
+- 😀Linguagens Python, C# e Java.
 - 🧑🏿‍💻Trabalho como Analista de Suporte presencial ou remoto.
 - 📧 contato: soufelipe@hotmail.com.
 -  <div>
